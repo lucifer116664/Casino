@@ -1,0 +1,12 @@
+﻿  Casino.cpp
+  Game.cpp
+C:\Users\lucif\Desktop\Codes\Casino\Casino\Game.cpp(17,7): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\lucif\Desktop\Codes\Casino\Casino\Game.cpp(17,17): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\lucif\Desktop\Codes\Casino\Casino\Game.cpp(21,11): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\lucif\Desktop\Codes\Casino\Casino\Game.cpp(21,21): warning C4804: >: небезопасное использование типа "bool" в операции
+  GuessNumber.cpp
+  Menu.cpp
+  OneArmedBandit.cpp
+  Roulette.cpp
+  Создание кода...
+  Casino.vcxproj -> C:\Users\lucif\Desktop\Codes\Casino\Debug\Casino.exe
